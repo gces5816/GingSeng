@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4c321808878da2949aff73907b0aac4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FMNJCardPrefab: {instanceID: 0}
+  - clone: {instanceID: 0}
+  - art: {instanceID: 0}
+  - business: {instanceID: 0}
+  - medical: {instanceID: 0}
+  - science: {instanceID: 0}
+  - food: {instanceID: 0}
+  - normal: {instanceID: 0}
+  - joker: {instanceID: 0}
+  - FMNJCards: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bcf42815df199a45b632715c99d8c6a, type: 3}
+  m_Name: artend
+  m_EditorClassIdentifier: 
+  SheetName: Assets/QuickSheet/Excel/artend.xls
+  WorksheetName: artend
+  dataArray:
+  - num: 1
+    end: "\u8A2D\u8A08\u5E2B"
+    smart: 100
+    ability: 0
+    social: 0
+    image: ae1
+  - num: 2
+    end: "\u97F3\u6A02\u88FD\u4F5C\u4EBA"
+    smart: 100
+    ability: 0
+    social: 0
+    image: ae2
+  - num: 3
+    end: "\u9B54\u8853\u5E2B"
+    smart: 100
+    ability: 0
+    social: 0
+    image: ae3
+  - num: 4
+    end: "\u8A69\u4EBA"
+    smart: 100
+    ability: 0
+    social: 0
+    image: ae4
+  - num: 5
+    end: "\u5C0E\u6F14"
+    smart: 0
+    ability: 100
+    social: 0
+    image: ae5
+  - num: 6
+    end: "\u8857\u982D\u85DD\u4EBA"
+    smart: 0
+    ability: 100
+    social: 0
+    image: ae6
+  - num: 7
+    end: Dancer
+    smart: 0
+    ability: 100
+    social: 0
+    image: ae7
+  - num: 8
+    end: "\u756B\u5BB6"
+    smart: 0
+    ability: 100
+    social: 0
+    image: ae8
+  - num: 9
+    end: "\u4F5C\u5BB6"
+    smart: 0
+    ability: 100
+    social: 0
+    image: ae9
+  - num: 10
+    end: "\u7F8E\u7532\u5E2B"
+    smart: 0
+    ability: 0
+    social: 100
+    image: ae10
+  - num: 11
+    end: "\u8AE7\u661F"
+    smart: 0
+    ability: 0
+    social: 100
+    image: ae11
+  - num: 12
+    end: Youtuber
+    smart: 0
+    ability: 0
+    social: 100
+    image: ae12
+  - num: 13
+    end: "\u7D44\u6A02\u5718"
+    smart: 0
+    ability: 0
+    social: 100
+    image: ae13
+  - num: 14
+    end: "\u4E69\u7AE5"
+    smart: 0
+    ability: 0
+    social: 100
+    image: ae14

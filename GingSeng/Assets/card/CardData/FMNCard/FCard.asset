@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8509b3c3d2e2b7b44aede7041cf48eef, type: 3}
+  m_Name: FCard
+  m_EditorClassIdentifier: 
+  cardName: 
+  right: "\u771F\u4E0D\u5DE7\uFF0C\u6642\u6A5F\u4E0D\u5C0D"
+  left: "\u767C\u63EE\u611B\u5FC3"
+  money: 0
+  health: -2
+  food: 0
+  smart: 2
+  ability: 3
+  social: 4
+  picture: {fileID: 21300000, guid: 174015073f088304bb8d9bf11bbb4217, type: 3}
+  isRight: 0
+  isLeft: 0
+  isCreate: 0

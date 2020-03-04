@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f179706f1fe9bc2428f25376e6aefb23, type: 3}
+  m_Name: science
+  m_EditorClassIdentifier: 
+  SheetName: Assets/QuickSheet/Excel/science.xls
+  WorksheetName: science
+  dataArray:
+  - num: 1
+    name: "\u5FAE\u7A4D\u5206\u6709\u5371\u6A5F"
+    left: "\u660E\u5E74\u518D\u4F86"
+    right: "\u6311\u71C8\u591C\u6230"
+    lmoney: 0
+    lhealth: 10
+    lfood: 0
+    lsmart: -8
+    lability: -8
+    lsocial: 0
+    rmoney: 0
+    rhealth: -13
+    rfood: -6
+    rsmart: 11
+    rability: 10
+    rsocial: 0
+    image: s1
+  - num: 2
+    name: "\u963F\u7238\u53EB\u6211\u53BB\u5DE5\u5730\u5E6B\u5FD9"
+    left: "\u5FEB\u9003"
+    right: "\u53BB\u5DE5\u5730\u5BE6\u7FD2\u5BE6\u7FD2\u4E5F\u597D"
+    lmoney: 0
+    lhealth: 0
+    lfood: -2
+    lsmart: 0
+    lability: 0
+    lsocial: 0
+    rmoney: 10
+    rhealth: -8
+    rfood: -3
+    rsmart: 0
+    rability: 7
+    rsocial: 8
+    image: s2
+  - num: 3
+    name: "\u5316\u5B78\u5BE6\u9A57\u8AB2\u684C\u4E0A\u4E00\u5806\u74F6\u74F6\u7F50\u7F50"
+    left: "\u96A8\u4FBF\u4E82\u52A0"
+    right: "\u7167\u8AB2\u672C\u4E00\u6B65\u4E00\u6B65\u505A"
+    lmoney: 0
+    lhealth: -12
+    lfood: 0
+    lsmart: 9
+    lability: 10
+    lsocial: 8
+    rmoney: 0
+    rhealth: -11
+    rfood: 0
+    rsmart: -9
+    rability: -10
+    rsocial: 0
+    image: s3
+  - num: 4
+    name: "\u96FB\u8166\u7206\u958B"
+    left: "\u81EA\u5DF1\u7684\u96FB\u8166\u81EA\u5DF1\u6551"
+    right: "\u627E\u5B78\u9577"
+    lmoney: 0
+    lhealth: -8
+    lfood: -3
+    lsmart: 8
+    lability: 9
+    lsocial: 10
+    rmoney: 0
+    rhealth: 0
+    rfood: 0
+    rsmart: 6
+    rability: 6
+    rsocial: -10
+    image: s4
+  - num: 5
+    name: "\u8A2D\u8A08\u5716\u5927\u8CFD"
+    left: "\u71AC\u591C\u8D95\u5DE5"
+    right: "\u6211\u963F\u5B24\u90FD\u756B\u5F97\u51FA\u4F86"
+    lmoney: -11
+    lhealth: -13
+    lfood: -8
+    lsmart: 8
+    lability: 9
+    lsocial: 12
+    rmoney: 0
+    rhealth: 0
+    rfood: 0
+    rsmart: -8
+    rability: -9
+    rsocial: 0
+    image: s5
+  - num: 6
+    name: "\u770B\u898B\u65E5\u8755"
+    left: "\u4E16\u754C\u8981\u6BC0\u6EC5\u4E86"
+    right: "\u62FF\u51FA\u76F8\u6A5F\u8A18\u9304\u7F8E\u597D\u7684\u4E00\u523B"
+    lmoney: 0
+    lhealth: -10
+    lfood: -6
+    lsmart: 0
+    lability: 0
+    lsocial: 0
+    rmoney: 0
+    rhealth: 13
+    rfood: 0
+    rsmart: 11
+    rability: 11
+    rsocial: 11
+    image: s6
+  - num: 7
+    name: "\u80CC\u5143\u7D20\u9031\u671F\u8868"
+    left: "\u8EAB\u9AD4\u529B\u884C"
+    right: "\u523A\u5728\u80CC\u4E0A"
+    lmoney: 0
+    lhealth: -11
+    lfood: -4
+    lsmart: 6
+    lability: 6
+    lsocial: 11
+    rmoney: -13
+    rhealth: -12
+    rfood: 0
+    rsmart: 8
+    rability: 8
+    rsocial: -8
+    image: s7
+  - num: 8
+    name: "\u91CD\u4FEE\u7269\u7406"
+    left: I am back...
+    right: "\u597D\u7684\u8AB2\u503C\u5F97\u4E00\u4FEE\u518D\u4FEE"
+    lmoney: -11
+    lhealth: -11
+    lfood: -4
+    lsmart: 7
+    lability: 7
+    lsocial: 12
+    rmoney: -11
+    rhealth: -8
+    rfood: -3
+    rsmart: 8
+    rability: 8
+    rsocial: 7
+    image: s8
+  - num: 9
+    name: "\u53C3\u52A0\u7814\u8A0E\u6703"
+    left: "\u9818\u516C\u8CBB\u51FA\u53BB\u73A9"
+    right: "\u7372\u76CA\u826F\u591A"
+    lmoney: 17
+    lhealth: 14
+    lfood: 8
+    lsmart: 0
+    lability: 0
+    lsocial: 0
+    rmoney: 0
+    rhealth: 13
+    rfood: 0
+    rsmart: 13
+    rability: 14
+    rsocial: 13
+    image: s9
+  - num: 10
+    name: "\u665A\u4E0A\u6709\u7A7A\u9592\u6642\u9593"
+    left: "\u73A9\u904A\u6232"
+    right: "\u5BEB\u7A0B\u5F0F"
+    lmoney: -14
+    lhealth: -13
+    lfood: -6
+    lsmart: 8
+    lability: 9
+    lsocial: 15
+    rmoney: 0
+    rhealth: -12
+    rfood: -6
+    rsmart: 9
+    rability: 10
+    rsocial: -11
+    image: s10

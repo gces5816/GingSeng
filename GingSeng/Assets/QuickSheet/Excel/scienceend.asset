@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b674a1e575faadc4098dd7d9fe8150a5, type: 3}
+  m_Name: scienceend
+  m_EditorClassIdentifier: 
+  SheetName: Assets/QuickSheet/Excel/scienceend.xls
+  WorksheetName: scienceend
+  dataArray:
+  - num: 1
+    end: TuringAward
+    smart: 100
+    ability: 0
+    social: 0
+    image: se1
+  - num: 2
+    end: "\u767C\u73FE\u65B0\u5143\u7D20"
+    smart: 100
+    ability: 0
+    social: 0
+    image: se2
+  - num: 3
+    end: "\u767C\u73FE\u5C0F\u884C\u661F"
+    smart: 100
+    ability: 0
+    social: 0
+    image: se3
+  - num: 4
+    end: "\u7206\u809D\u5DE5\u7A0B\u5E2B"
+    smart: 100
+    ability: 0
+    social: 0
+    image: se4
+  - num: 5
+    end: "\u79D1\u5B78\u602A\u4EBA"
+    smart: 0
+    ability: 100
+    social: 0
+    image: se5
+  - num: 6
+    end: "\u5DE5\u5177\u4EBA"
+    smart: 0
+    ability: 100
+    social: 0
+    image: se6
+  - num: 7
+    end: "\u5EFA\u7BC9\u5E2B"
+    smart: 0
+    ability: 100
+    social: 0
+    image: se7
+  - num: 8
+    end: "\u99ED\u5BA2"
+    smart: 0
+    ability: 100
+    social: 0
+    image: se8
+  - num: 9
+    end: "\u7CBE\u7B97\u5E2B"
+    smart: 0
+    ability: 100
+    social: 0
+    image: se9
+  - num: 10
+    end: "\u5DE5\u5730\u4E3B\u4EFB"
+    smart: 0
+    ability: 0
+    social: 100
+    image: se10
+  - num: 11
+    end: "\u79D1\u6280\u65B0\u8CB4"
+    smart: 0
+    ability: 0
+    social: 100
+    image: se11
+  - num: 12
+    end: "\u5275\u696D\u5BB6"
+    smart: 0
+    ability: 0
+    social: 100
+    image: se12
+  - num: 13
+    end: "\u8CE3\u96DE\u6392"
+    smart: 0
+    ability: 0
+    social: 100
+    image: se13

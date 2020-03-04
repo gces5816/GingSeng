@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GingSeng", "Assembly-CSharp.csproj", "{F18E5AC5-207E-E63E-CEA0-9B43525148D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GingSeng", "Assembly-CSharp-Editor.csproj", "{F2BA33EA-BF0D-E4F6-68FB-53B6C298BE18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F18E5AC5-207E-E63E-CEA0-9B43525148D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18E5AC5-207E-E63E-CEA0-9B43525148D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18E5AC5-207E-E63E-CEA0-9B43525148D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18E5AC5-207E-E63E-CEA0-9B43525148D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2BA33EA-BF0D-E4F6-68FB-53B6C298BE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BA33EA-BF0D-E4F6-68FB-53B6C298BE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BA33EA-BF0D-E4F6-68FB-53B6C298BE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BA33EA-BF0D-E4F6-68FB-53B6C298BE18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

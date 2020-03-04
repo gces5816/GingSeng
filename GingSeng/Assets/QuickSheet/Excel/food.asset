@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb516a1aafb82a8409a9f6784012986a, type: 3}
+  m_Name: food
+  m_EditorClassIdentifier: 
+  SheetName: Assets/QuickSheet/Excel/food.xls
+  WorksheetName: food
+  dataArray:
+  - num: 1
+    name: "\u767C\u73FE\u4F86\u8DEF\u4E0D\u660E\u7684\u9999\u83C7"
+    left: "\u5617\u5617\u770B"
+    right: "\u5148\u4E0D\u8981\u5403"
+    lmoney: 0
+    lhealth: -9
+    lfood: 11
+    lsmart: 8
+    lability: 0
+    lsocial: 0
+    rmoney: 0
+    rhealth: 9
+    rfood: 0
+    rsmart: 9
+    rability: 0
+    rsocial: 0
+    image: f1
+  - num: 2
+    name: "\u6355\u7372\u91CE\u751F\u7684\u5E1D\u96C9"
+    left: "\u70E4\u5E1D\u96C9"
+    right: "\u653E\u4ED6\u4E00\u689D\u751F\u8DEF"
+    lmoney: -15
+    lhealth: 0
+    lfood: 17
+    lsmart: -9
+    lability: 0
+    lsocial: 0
+    rmoney: 0
+    rhealth: 0
+    rfood: 0
+    rsmart: 10
+    rability: 0
+    rsocial: 0
+    image: f2
+  - num: 3
+    name: "\u540C\u5B78\u63EA\u5403\u5BB5\u591C"
+    left: "\u9EA5\u7576\u7576"
+    right: "\u80AF\u57FA\u57FA"
+    lmoney: -9
+    lhealth: -7
+    lfood: 12
+    lsmart: -8
+    lability: -12
+    lsocial: 0
+    rmoney: -8
+    rhealth: -7
+    rfood: 12
+    rsmart: -6
+    rability: 10
+    rsocial: 9
+    image: f3
+  - num: 4
+    name: "\u5ABD\u5ABD\u554F\u665A\u9910\u60F3\u5403\u4EC0\u9EBC"
+    left: "\u7C73\u5176\u67973\u661F\u9910\u5EF3"
+    right: "\u5E73\u50F9\u5C0F\u5403\u5E97"
+    lmoney: -23
+    lhealth: 0
+    lfood: 20
+    lsmart: 0
+    lability: 0
+    lsocial: 9
+    rmoney: -8
+    rhealth: 0
+    rfood: 9
+    rsmart: 0
+    rability: 0
+    rsocial: 0
+    image: f4
+  - num: 5
+    name: "\u8D77\u4E86\u500B\u5927\u65E9"
+    left: "\u559D\u676F\u5927\u51B0\u5976"
+    right: "\u559D\u676F\u5361\u5E03\u5947\u8AFE"
+    lmoney: -6
+    lhealth: -8
+    lfood: 7
+    lsmart: 0
+    lability: 0
+    lsocial: 0
+    rmoney: -7
+    rhealth: 8
+    rfood: 6
+    rsmart: 0
+    rability: 0
+    rsocial: 0
+    image: f5
+  - num: 6
+    name: "\u54C1\u5690\u539F\u4F4F\u6C11\u7F8E\u98DF"
+    left: "\u751F\u9183\u98DB\u9F20\u8089"
+    right: "\u70E4\u5C71\u8C6C\u8089"
+    lmoney: 0
+    lhealth: 7
+    lfood: 8
+    lsmart: 0
+    lability: 7
+    lsocial: 8
+    rmoney: 0
+    rhealth: 7
+    rfood: 18
+    rsmart: 10
+    rability: 10
+    rsocial: 8
+    image: f6
+  - num: 7
+    name: "\u5730\u677F\u5192\u51FA\u6CC9\u6C34"
+    left: "\u555C\u98F2\u4E4B"
+    right: "\u6389\u982D\u5C31\u8D70"
+    lmoney: 0
+    lhealth: -8
+    lfood: 7
+    lsmart: -7
+    lability: 0
+    lsocial: 0
+    rmoney: 0
+    rhealth: 8
+    rfood: 0
+    rsmart: 9
+    rability: 0
+    rsocial: 0
+    image: f7
+  - num: 8
+    name: "\u53C3\u52A0\u8C50\u5E74\u796D"
+    left: "\u66A2\u98F2\u5C0F\u7C73\u9152"
+    right: "\u5C0F\u914C\u4E00\u74F6\u5C0F\u7C73\u9152"
+    lmoney: -9
+    lhealth: -13
+    lfood: 12
+    lsmart: 0
+    lability: 10
+    lsocial: 17
+    rmoney: -9
+    rhealth: -9
+    rfood: 10
+    rsmart: 0
+    rability: 7
+    rsocial: 11
+    image: f8
+  - num: 9
+    name: "\u9644\u8FD1\u65B0\u958B\u4E86\u4E00\u5BB6\u9910\u5EF3"
+    left: "\u8A66\u8A66\u6C34\u6EAB"
+    right: "\u4E0D\u662F\u5F88\u60F3..."
+    lmoney: -13
+    lhealth: 0
+    lfood: 11
+    lsmart: 0
+    lability: 0
+    lsocial: 10
+    rmoney: 0
+    rhealth: 0
+    rfood: -2
+    rsmart: 8
+    rability: 0
+    rsocial: 0
+    image: f9
+  - num: 10
+    name: "\u5927\u80C3\u738B\u6BD4\u8CFD\u50B3\u55AE"
+    left: "\u53C3\u52A0"
+    right: "\u9580\u5152\u90FD\u6C92\u6709"
+    lmoney: -10
+    lhealth: -10
+    lfood: 19
+    lsmart: 0
+    lability: 10
+    lsocial: 13
+    rmoney: 0
+    rhealth: 10
+    rfood: 0
+    rsmart: 0
+    rability: -9
+    rsocial: -10
+    image: f10

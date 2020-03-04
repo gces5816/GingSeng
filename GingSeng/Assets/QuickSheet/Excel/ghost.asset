@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d03911768d65c04580895810f6f3ddd, type: 3}
+  m_Name: ghost
+  m_EditorClassIdentifier: 
+  SheetName: Assets/QuickSheet/Excel/ghost.xls
+  WorksheetName: ghost
+  dataArray:
+  - num: 1
+    name: "\u5728\u8DEF\u4E0A\u9047\u5230\u6BBA\u4EBA\u72AF\u6C42\u5E6B\u52A9"
+    left: "\u5305\u5E87\u4ED6"
+    right: "\u62FF\u8D77\u624B\u6A5F\u5831\u8B66"
+    lend: "\u88AB\u8996\u70BA\u5171\u72AF\uFF0C\u5224\u8655\u7121\u671F\u5F92\u5211"
+    rend: "\u88AB\u6BBA\u4EBA\u72AF\u6EC5\u53E3"
+    limage: gl1
+    rimage: gr1
+    image: g1
+  - num: 2
+    name: "\u7A81\u7136\u611F\u5230\u982D\u75DB"
+    left: "\u53BB\u91AB\u9662\u6AA2\u67E5\u4E00\u4E0B"
+    right: "\u56DE\u5BB6\u7761\u4E00\u89BA\u5C31\u597D\u4E86"
+    lend: "\u672B\u671F\u7D55\u75C7"
+    rend: "\u66B4\u6583\u731D\u6B7B"
+    limage: gl2
+    rimage: gr2
+    image: g2
+  - num: 3
+    name: "\u767C\u751F\u5927\u5730\u9707"
+    left: "\u96E2\u9580\u53E3\u5F88\u8FD1\uFF0C\u5FEB\u885D\u51FA\u53BB"
+    right: "\u8D95\u5FEB\u5148\u8EB2\u5230\u684C\u8173"
+    lend: "\u88AB\u625B\u68D2\u7838\u6B7B"
+    rend: "\u88AB\u5FAE\u7A4D\u5206\u8AB2\u672C\u7838\u6B7B"
+    limage: gl3
+    rimage: gr3
+    image: g3
+  - num: 4
+    name: "\u88AB\u5916\u661F\u4EBA\u544A\u767D"
+    left: "\u7559\u4E0B\u4F86"
+    right: "\u6216\u8005\u6211\u8DDF\u4F60\u8D70"
+    lend: "\u5728\u5730\u7403\u7D50\u5A5A"
+    rend: "\u5230\u5916\u592A\u7A7A\u7D50\u5A5A"
+    limage: gl4
+    rimage: gr4
+    image: g4
+  - num: 5
+    name: "\u6536\u5230\u7121\u540D\u5305\u88F9"
+    left: "\u6253\u958B\u770B\u770B"
+    right: "\u4E1F\u5728\u4E00\u65C1"
+    lend: "\u5012\u6578\u8A08\u6642\uFF0C\u7136\u5F8C\u7206\u70B8"
+    rend: "\u76F4\u63A5\u7206\u70B8"
+    limage: gl5
+    rimage: gr5
+    image: g5
+  - num: 6
+    name: "\u570B\u5BB6\u8150\u6557\uFF0C\u6C11\u4E0D\u804A\u751F"
+    left: "\u8207\u540C\u80DE\u5011\u4E00\u540C\u8D77\u7FA9"
+    right: "\u8EB2\u8D77\u4F86\u7576\u5C0F\u618B\u4E09"
+    lend: "\u88AB\u93AE\u58D3"
+    rend: "\u6EC5\u570B\uFF0C\u6210\u70BA\u570B\u969B\u96E3\u6C11"
+    limage: gl6
+    rimage: gr6
+    image: g6
+  - num: 7
+    name: "\u5F9E\u571F\u88E1\u8E66\u51FA\u91CE\u751F\u6BAD\u5C4D"
+    left: "\u6C7A\u9B25"
+    right: "\u6295\u964D"
+    lend: "\u88AB\u54AC\u4E00\u53E3\u8B8A\u6210\u6BAD\u5C4D"
+    rend: "\u5165\u8D05\u6BAD\u5C4D\u5BB6\u65CF"
+    limage: gl7
+    rimage: gr7
+    image: g7
+  - num: 8
+    name: "\u5728\u516C\u5712\u6905\u5B50\u5E95\u4E0B\u767C\u73FE\u5B9A\u6642\u70B8\u5F48"
+    left: "\u526A\u85CD\u7DDA"
+    right: "\u526A\u7D05\u7DDA"
+    lend: "\u6210\u70BA\u82F1\u96C4"
+    rend: "\u88AB\u70B8\u6210\u788E\u584A"
+    limage: gl8
+    rimage: gr8
+    image: g8
+  - num: 9
+    name: "\u5929\u7A7A\u7A81\u7136\u51FA\u73FE\u4E0D\u660E\u98DB\u884C\u8239"
+    left: "\u4E0A\u53BB"
+    right: "\u8DD1\u8D70"
+    lend: "\u6210\u70BA\u5916\u661F\u738B\u570B\u65B0\u4E00\u4EE3\u7D71\u6CBB\u8005"
+    rend: "\u88AB\u98DB\u884C\u8239\u767C\u5C04\u7684\u795E\u5947\u5149\u7DDA\u5438\u8D70"
+    limage: gl9
+    rimage: gr9
+    image: g9
+  - num: 10
+    name: "\u98B1\u98A8\u4F86\u8972"
+    left: "\u98B1\u98A8\u5929\u5C31\u662F\u8981\u6CDB\u821F\u554A"
+    right: "\u8EB2\u5728\u5BB6\u88E1\u8E72"
+    lend: "\u4E0A\u65B0\u805E\uFF0C\u6210\u70BA\u540D\u4EBA"
+    rend: "\u571F\u77F3\u6D41"
+    limage: gl10
+    rimage: gr10
+    image: g10

@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b142fddc168e1142b99a934b60c695b, type: 3}
+  m_Name: businessend
+  m_EditorClassIdentifier: 
+  SheetName: Assets/QuickSheet/Excel/businessend.xls
+  WorksheetName: businessend
+  dataArray:
+  - num: 1
+    end: "\u80A1\u795E"
+    smart: 100
+    ability: 0
+    social: 0
+    image: be1
+  - num: 2
+    end: "\u5927\u6CD5\u5B98"
+    smart: 100
+    ability: 0
+    social: 0
+    image: be2
+  - num: 3
+    end: "\u516C\u52D9\u54E1"
+    smart: 100
+    ability: 0
+    social: 0
+    image: be3
+  - num: 4
+    end: "\u6AA2\u5BDF\u5B98"
+    smart: 100
+    ability: 0
+    social: 0
+    image: be4
+  - num: 5
+    end: "\u5F8B\u5E2B"
+    smart: 0
+    ability: 100
+    social: 0
+    image: be5
+  - num: 6
+    end: "\u7E3D\u88C1"
+    smart: 0
+    ability: 100
+    social: 0
+    image: be6
+  - num: 7
+    end: "\u5730\u7522\u5927\u4EA8"
+    smart: 0
+    ability: 100
+    social: 0
+    image: be7
+  - num: 8
+    end: "\u6703\u8A08\u5E2B"
+    smart: 0
+    ability: 100
+    social: 0
+    image: be8
+  - num: 9
+    end: "\u5916\u4EA4\u5B98"
+    smart: 0
+    ability: 100
+    social: 0
+    image: be9
+  - num: 10
+    end: "\u7576\u92EA\u8001\u95C6"
+    smart: 0
+    ability: 0
+    social: 100
+    image: be10
+  - num: 11
+    end: "\u91CC\u9577\u4F2F"
+    smart: 0
+    ability: 0
+    social: 100
+    image: be11
+  - num: 12
+    end: "\u6050\u9F8D\u6CD5\u5B98"
+    smart: 0
+    ability: 0
+    social: 100
+    image: be12
+  - num: 13
+    end: "\u653F\u5BA2"
+    smart: 0
+    ability: 0
+    social: 100
+    image: be13
+  - num: 14
+    end: "\u7ACB\u59D4"
+    smart: 0
+    ability: 0
+    social: 100
+    image: be14
+  - num: 15
+    end: "\u99D0\u65E5\u5927\u4F7F"
+    smart: 0
+    ability: 0
+    social: 100
+    image: be15
